@@ -42,14 +42,14 @@ export default function UbaidProfile() {
           <p><strong>Name:</strong> Ubaid</p>
           <p><strong>Age:</strong> 17</p>
         </section>
-
-        {/* Footer for Ubaid */}
       </main>
-        <footer className="bg-gradient-to-r from-blue-500 to-green-500 text-white w-full p-4 mt-auto">
-          <div className="container mx-auto text-center">
-            <p>&copy; 2024 Ubaid's Profile Page. All rights reserved.</p>
-          </div>
-        </footer>
+
+      {/* Footer for Ubaid */}
+      <footer className="bg-gradient-to-r from-blue-500 to-green-500 text-white w-full p-4 mt-auto">
+        <div className="container mx-auto text-center">
+          <p>&copy; 2024 Ubaid&apos;s Profile Page. All rights reserved.</p>
+        </div>
+      </footer>
     </div>
   );
 }

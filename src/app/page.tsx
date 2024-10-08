@@ -49,7 +49,6 @@ export default function UbaidProfile() {
         <div className="container mx-auto text-center">
           <p>&copy; 2024 Ubaid&apos;s Profile Page. All rights reserved.</p>
         </div>
-        <p>sss</p>
       </footer>
     </div>
   );
